@@ -1,0 +1,25 @@
+
+
+Aufgabe 3
+Welche der folgenden Aussagen über ein Interface ist korrekt?
+Ein Interface kann private Attribute besitzen
+Ein Interface kann andere Interfaces redefinieren
+Alle Merkmale eines Interface müssen die Sichtbarkeit "private" haben
+Ein Interface kann keine Attribute haben
+Antwort: Aussage 2
+
+Aufgabe 4
+Welche Aussagen sind korrekt?
+An Interface may be implemented by multiple classifiers, but one classifier may only implement one interface.
+An Interface may be implemented by multiple classifiers, and one classifier may implement multiple interfaces.
+An interface may be implemented by at most one classifier, and one classifier may implement at most one interface.
+An interface may be implemented by at most one classifier, but one classifier may implement multiple interfaces.
+Antwort: Aussage 4
+
+Aufgabe 6
+Welche der folgenden Aussagen ist korrekt? 
+Sobald w zerstört wird, dann wird auch z zerstört.
+Sobald z zerstört wird, dann wird auch w zerstört.
+Zu einem bestimmten Zeitpunkt kann eine Instanz von z in genau einer Instanz von w enthalten sein.
+Zu einem bestimmten Zeitpunkt kann eine Instanz von z in mehreren Instanzen von w enthalten sein.
+Antwort: Aussage 1, Aussage 3
