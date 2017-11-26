@@ -1,0 +1,3 @@
+Begründung zu Aufgabe 7:
+
+Dadurch, dass Klassen & Interfaces nicht geändert werden können, bietet sich ein Adapter-Pattern an.
